@@ -87,7 +87,7 @@ let whitelist = [
     "0104d829924805ff0d45dd04533cc092"
     //Hoster
     //Jayparm
-    "f04c0078134dea9d12939bc4eb21c9c6"
+    "4acd391c7e88cec31ee04fae8fe9b414"
 ];
 let keyOwnerUuid = null;
 let ownerIGN = null;
