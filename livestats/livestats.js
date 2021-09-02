@@ -85,6 +85,9 @@ let whitelist = [
     "51223a41b842e171de6911e645bf2c9f",
     //kavirock
     "0104d829924805ff0d45dd04533cc092"
+    //Hoster
+    //Jayparm
+    "f04c0078134dea9d12939bc4eb21c9c6"
 ];
 let keyOwnerUuid = null;
 let ownerIGN = null;
